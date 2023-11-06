@@ -1,6 +1,7 @@
 # Estudo-sobre-eletrocromismo
-O efeito eletrocrômico é observado em muitos materiais, </br>
-suas aplicações incluem mudança de cor e transparência.
+O efeito eletrocrômico é observado em muitos materiais, suas aplicações incluem mudança de cor e transparência</br>
+de vidros de janelas, painéis eletrônicos, monitores, displays, divisórias, óculos, espelhos, retrovisores, etc.</br>
+</br>
 
 # Materiais Eletrocrômicos
 ## Jader Rafaelli Capilé Sanches
@@ -29,8 +30,9 @@ suas aplicações incluem mudança de cor e transparência.
 ## Quais são as principais substâncias eletrocrômicas?
  Como é apresentado no artigo de *Juliana Ramos de Andrade* numa pesquisa intitulada</br>
  *Desenvolvimento de Dispositivos Eletrocrômicos*, desenvolvida pelo *Instituto de Química de São Carlos* </br>
- da *Universidade de São Paulo* em 2015:A mudança de coloração ocorre nesses materiais devido  </br>
- a presença de moléculas cromógenas. No caso da pesquisa foram utilizados filmes finos eletrocrômicos de:</br>
+ da *Universidade de São Paulo* em 2015:</br> 
+ A mudança de coloração ocorre nesses materiais devido a presença de moléculas cromógenas. </br>
+ No caso da pesquisa foram utilizados filmes finos eletrocrômicos de:</br>
  * (WO<sub>3</sub>) Óxido de Tungstênio
  * (WoO<sub>3</sub>) Óxido de Molibdênio 
  * (TiO<sub>2</sub>) Dióxido de Titânio 
