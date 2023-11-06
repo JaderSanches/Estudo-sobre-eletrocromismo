@@ -27,10 +27,10 @@ suas aplicações incluem mudança de cor e transparência.
  de modo reversível  conforme aplicamos uma diferença de potencial. 
 
 ## Quais são as principais substâncias eletrocrômicas?
- Como é apresentado no artigo de *Juliana Ramos de Andrade* numa pesquisa desenvolvida</br>
- pelo *Instituto de Química de São Carlos* da *Universidade de São Paulo* em 2015:</br>
- A mudança de coloração ocorre nesses materiais devido a presença de moléculas cromógenas. </br>
- No caso da pesquisa foram utilizados filmes finos eletrocrômicos de:
+ Como é apresentado no artigo de *Juliana Ramos de Andrade* numa pesquisa intitulada</br>
+ *Desenvolvimento de Dispositivos Eletrocrômicos*, desenvolvida pelo *Instituto de Química de São Carlos* </br>
+ da *Universidade de São Paulo* em 2015:A mudança de coloração ocorre nesses materiais devido  </br>
+ a presença de moléculas cromógenas. No caso da pesquisa foram utilizados filmes finos eletrocrômicos de:</br>
  * (WO<sub>3</sub>) Óxido de Tungstênio
  * (WoO<sub>3</sub>) Óxido de Molibdênio 
  * (TiO<sub>2</sub>) Dióxido de Titânio 
