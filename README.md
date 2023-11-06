@@ -1,7 +1,10 @@
 # Estudo-sobre-eletrocromismo
 O efeito eletrocrômico é observado em muitos materiais, suas aplicações incluem mudança de cor e transparência</br>
 de moléculas cromóginas contidas em vidros de janelas, painéis eletrônicos, monitores, displays, </br> 
-divisórias, óculos, espelhos, retrovisores, etc.</br>
+divisórias, óculos, espelhos, retrovisores, etc. Controlado elétricamente com efeito reversível </br>
+a transparência e luminosidade do material possibilita a transmissão de informação publicitária </br>
+em locais inusitados. Questões referentes a qualidade do ar, quantidade de luz, ergonomia e paisagismo,</br>
+conectam profundamente o eletrocromismo com sustentabilidade. </br>
 </br>
 
 # Materiais Eletrocrômicos
